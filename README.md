@@ -3,6 +3,8 @@ Stored cross Site scripting Vulnerability in appspace Web Framework version 6.2.
 
 Observation: Stored cross site scripting vulnerability was observed in the appspace platform version 6.2.4. After a user gets authenticated and and enters an xss payload under groups section of the network tab it gets stored as the group name.Whenever another player or member visits that group this payload gets executed.
 
+Severity: High
+
 Steps To reproduce:
 
 1. Login to appspace
