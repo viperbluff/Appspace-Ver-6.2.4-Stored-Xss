@@ -14,8 +14,8 @@ Impact : Users can be invited to join a network's group with xss payload in the 
 
 POC: Image POC's have been given below:
 
-![poc1](https://raw.github.com/viperbluff/Appspace-Ver-6.2.4-Stored-Xss/master/screenshots/poc1.png)
+![poc1](https://raw.github.com/viperbluff/Appspace-Ver-6.2.4-Stored-Xss/master/poc1.png)
 
-![poc2](https://raw.github.com/viperbluff/Appspace-Ver-6.2.4-Stored-Xss/master/screenshots/poc2.png)
+![poc2](https://raw.github.com/viperbluff/Appspace-Ver-6.2.4-Stored-Xss/master/poc2.png)
 
-![poc3](https://raw.github.com/viperbluff/Appspace-Ver-6.2.4-Stored-Xss/master/screenshots/poc3.png)
+![poc3](https://raw.github.com/viperbluff/Appspace-Ver-6.2.4-Stored-Xss/master/poc3.png)
